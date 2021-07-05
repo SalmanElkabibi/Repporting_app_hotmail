@@ -26,7 +26,7 @@ global PATH_chrome , PATH_firefox , PATH_comodo
 
 PATH_chrome = ".\\chrome_driver\\chromedriver.exe"  
 PATH_firefox = ".\\firefox_driver\\geckodriver.exe"
-PATH_comodo = ".\firefox_driver\\geckodriver.exe"
+PATH_comodo = ".\\firefox_driver\\geckodriver.exe"
 
 def login(email,password,driver):
     try :
