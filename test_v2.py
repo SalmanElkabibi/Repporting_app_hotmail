@@ -44,7 +44,7 @@ def login(email,password,driver):
         time.sleep(1)
         p.send_keys(Keys.RETURN)
     except : 
-        driver.save_screenshot("..\\backend\\screenshots\\login_errors\\"+email+".png") 
+        driver.save_screenshot(".\\screenshots\\login_errors\\"+email+".png") 
         
     try :
         parametres = WebDriverWait(driver, 15).until(EC.visibility_of_element_located((By.XPATH,"//button[@id='owaSettingsButton']")))
@@ -291,13 +291,13 @@ def init_browser(ip,port,p_user,p_password,browsers,hide):
     
     firefox_options = f_Options()
     #firefox_options.binary_location = r'C:\\Users\\'+username+'\\AppData\\Local\\Mozilla Firefox\\firefox.exe'
-    firefox_options.binary_location = '..\\backend\\binaries\\binary_firefox\\firefox.exe'
+    firefox_options.binary_location = '.\\binaries\\binary_firefox\\firefox.exe'
     comodo_options = f_Options()
     #comodo_options.binary_location = r'C:\\Program Files\\Comodo\\IceDragon\\icedragon.exe'
-    comodo_options.binary_location = '..\\backend\\binaries\\binary_comodo\\icedragon.exe'
+    comodo_options.binary_location = '.\\binaries\\binary_comodo\\icedragon.exe'
     chrome_options = c_Options()
     #chrome_options.binary_location = r'C:\\Users\\'+username+'\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe'
-    chrome_options.binary_location = '..\\backend\\binaries\\binary_chrome\\chrome.exe'
+    chrome_options.binary_location = '.\\binaries\\binary_chrome\\chrome.exe'
     desired_capability = webdriver.DesiredCapabilities.FIREFOX
     desired_capability['marionette'] = True
     proxy_use= ip+':'+port
@@ -386,7 +386,7 @@ def test(email,password,ip,port,p_user,p_password,tasks,subject,browsers,link,hi
             spam.click()
             e = WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.XPATH,"//span[contains(text(),'" +subject+ "')]")))
         except :
-            driver.save_screenshot("..\\backend\\screenshots\\login_errors\\"+email+".png")
+            driver.save_screenshot(".\\screenshots\\login_errors\\"+email+".png")
         while(e):
             e.click()
             eval('spam_to_inbox(driver,subject,link)')
@@ -403,7 +403,7 @@ def test(email,password,ip,port,p_user,p_password,tasks,subject,browsers,link,hi
                         eval(task+'(driver,subject,link,rep)')
                         time.sleep(2)
                     except :
-                        driver.save_screenshot("..\\backend\\screenshots\\login_errors\\tasks_errors\\"+task+".png")
+                        driver.save_screenshot(".\\screenshots\\login_errors\\tasks_errors\\"+task+".png")
                 Boîte_de_réception = WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.XPATH,"//div[@title='Boîte de réception']|//div[@title='Inbox']")))
                 Boîte_de_réception.click()
                 try :
@@ -429,7 +429,7 @@ def test(email,password,ip,port,p_user,p_password,tasks,subject,browsers,link,hi
                         eval(task+'(driver,subject,link,rep)')
                         time.sleep(2)
                     except Exception as e :
-                        driver.save_screenshot("..\\backend\\screenshots\\login_errors\\tasks_errors\\"+task+".png")
+                        driver.save_screenshot(".\\screenshots\\login_errors\\tasks_errors\\"+task+".png")
     
                 Boîte_de_réception = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH,"//div[@title='Boîte de réception']|//div[@title='Inbox']")))
                 Boîte_de_réception.click()
