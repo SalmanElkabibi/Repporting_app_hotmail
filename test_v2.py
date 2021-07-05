@@ -293,11 +293,11 @@ def init_browser(ip,port,p_user,p_password,browsers,hide):
     #firefox_options.binary_location = r'C:\\Users\\'+username+'\\AppData\\Local\\Mozilla Firefox\\firefox.exe'
     firefox_options.binary_location = '.\\binaries\\binary_firefox\\firefox.exe'
     comodo_options = f_Options()
-    #comodo_options.binary_location = r'C:\\Program Files\\Comodo\\IceDragon\\icedragon.exe'
+    #comodo_options.binary_location = r'C:\Program Files\Comodo\IceDragon\icedragon.exe'
     comodo_options.binary_location = '.\\binaries\\binary_comodo\\icedragon.exe'
     chrome_options = c_Options()
-    #chrome_options.binary_location = r'C:\\Users\\'+username+'\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe'
-    chrome_options.binary_location = '.\\binaries\\binary_chrome\\chrome.exe'
+    #chrome_options.binary_location = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
+    chrome_options.binary_location = '\\binaries\\binary_chrome\\chrome.exe'
     desired_capability = webdriver.DesiredCapabilities.FIREFOX
     desired_capability['marionette'] = True
     proxy_use= ip+':'+port
@@ -322,6 +322,8 @@ def init_browser(ip,port,p_user,p_password,browsers,hide):
         elif browsers == 'firefox':       
             driver = webdriver.Firefox(executable_path=PATH_firefox, options=firefox_options)
         elif browsers == 'chrome':
+            print('Chrome without proxy : Activated')
+            chrome_options = webdriver.ChromeOptions()
             driver = webdriver.Chrome(executable_path=PATH_chrome, options=chrome_options)
             
     elif p_user == '' and p_password == '' :
