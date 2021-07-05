@@ -372,7 +372,6 @@ def init_browser(ip,port,p_user,p_password,browsers,hide):
     return driver
 
 def test(email,password,ip,port,p_user,p_password,tasks,subject,browsers,link,hide,rep,i):
-    driver = init_browser(ip,port,p_user,p_password,browsers,hide)
     init_browser(ip,port,p_user,p_password,browsers,hide)
     try:
         login(email, password,driver)
