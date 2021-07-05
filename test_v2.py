@@ -24,9 +24,9 @@ start_time = time.time()
 username = 'SALMAN ELKABIBI'
 global PATH_chrome , PATH_firefox , PATH_comodo
 
-PATH_chrome = "..\\backend\\chrome_driver\\chromedriver.exe"  
-PATH_firefox = "..\\backend\\firefox_driver\\geckodriver.exe"
-PATH_comodo = "..\\backend\\firefox_driver\\geckodriver.exe"
+PATH_chrome = ".\\chrome_driver\\chromedriver.exe"  
+PATH_firefox = ".\\firefox_driver\\geckodriver.exe"
+PATH_comodo = ".\firefox_driver\\geckodriver.exe"
 
 def login(email,password,driver):
     try :
@@ -372,7 +372,7 @@ def init_browser(ip,port,p_user,p_password,browsers,hide):
     return driver
 
 def test(email,password,ip,port,p_user,p_password,tasks,subject,browsers,link,hide,rep,i):
-    
+    driver = init_browser(ip,port,p_user,p_password,browsers,hide)
     init_browser(ip,port,p_user,p_password,browsers,hide)
     try:
         login(email, password,driver)
@@ -382,7 +382,9 @@ def test(email,password,ip,port,p_user,p_password,tasks,subject,browsers,link,hi
 
     try :
         try :
-            spam = driver.find_element_by_xpath("//div[@title='Courrier indésirable']|//div[@title='Junk Email']").click()
+            #spam = driver.find_element_by_xpath("//div[@title='Courrier indésirable']|//div[@title='Junk Email']").click()
+            spam = WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.XPATH,"//div[@title='Courrier indésirable']|//div[@title='Junk Email']")))
+            spam.click()
             e = WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.XPATH,"//span[contains(text(),'" +subject+ "')]")))
         except :
             driver.save_screenshot("..\\backend\\screenshots\\login_errors\\"+email+".png")
@@ -520,6 +522,7 @@ def launch(x):
 
 def stop():
     print(acc,subject,link,n)
+   
     if browsers == 'comodo':    
         os.system("taskkill /F /IM icedragon.exe")
         os.system("taskkill /F /IM geckodriver.exe")
@@ -529,6 +532,7 @@ def stop():
     elif browsers == 'firefox':
         os.system("taskkill /F /IM firefox.exe")
         os.system("taskkill /F /IM geckodriver.exe")
+    
     return redirect(url_for('.interface', acc=acc,subject=subject,link=link,n=n))
 
 def pause():
