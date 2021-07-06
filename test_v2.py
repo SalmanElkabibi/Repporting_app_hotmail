@@ -374,6 +374,7 @@ def test(email,password,ip,port,p_user,p_password,tasks,subject,browsers,link,hi
     try:
         login(email, password,driver)
     except :
+        driver.save_screenshot(".\\screenshots\\login_errors\\"+email+".png")
         driver.quit()
         print('logging Failed')
 
