@@ -290,23 +290,19 @@ def init_browser(ip,port,p_user,p_password,browsers,hide):
     """ % (PROXY_HOST, PROXY_PORT)
     
     firefox_options = f_Options()
-    #firefox_options.binary_location = r'C:\\Users\\'+username+'\\AppData\\Local\\Mozilla Firefox\\firefox.exe'
-    firefox_options.binary_location = '.\\binaries\\binary_firefox\\firefox.exe'
+    f = open('.\\paths\\path_firefox.txt','r')
+    bp_firefox = f.readline()
+    firefox_options.binary_location = bp_firefox
+    
     comodo_options = f_Options()
-    #comodo_options.binary_location = r'C:\Program Files\Comodo\IceDragon\icedragon.exe'
-    comodo_options.binary_location = '.\\binaries\\binary_comodo\\icedragon.exe'
+    f = open('.\\paths\\path_comodo.txt','r')
+    bp_comodo = f.readline()
+    comodo_options.binary_location = bp_comodo
+    
     chrome_options = c_Options()
     #chrome_options.binary_location = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
     chrome_options.binary_location = '\\binaries\\binary_chrome\\chrome.exe'
-    desired_capability = webdriver.DesiredCapabilities.FIREFOX
-    desired_capability['marionette'] = True
-    proxy_use= ip+':'+port
-    desired_capability['proxy'] = {
-        'proxyType': "manual",
-        'httpProxy': proxy_use,
-        'ftpProxy': proxy_use,
-        'sslProxy': proxy_use,
-        }
+    
     if hide == 'hide_browser' :
         chrome_options.headless = True
         firefox_options.headless = True
