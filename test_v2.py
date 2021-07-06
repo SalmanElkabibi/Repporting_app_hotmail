@@ -31,8 +31,8 @@ PATH_comodo = ".\\firefox_driver\\geckodriver.exe"
 def login(email,password,driver):
     try :
         print("===> logging in ")
-        driver.get("https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1621957211&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d46b8cc68-7a8f-c9f7-4988-8fda7cc04013&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015")
-    
+        #driver.get("https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1621957211&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d46b8cc68-7a8f-c9f7-4988-8fda7cc04013&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015")
+        driver.get("https://myip.com")
         e = driver.find_element_by_id('i0116')
         e.send_keys(email)
         time.sleep(1)
@@ -330,6 +330,16 @@ def init_browser(ip,port,p_user,p_password,browsers,hide):
             driver = webdriver.Firefox(executable_path=PATH_comodo, options=comodo_options)
         elif browsers == 'firefox': 
             print('Firefox proxy : Activated')
+            firefox_options = f_Options()
+            firefox_options.binary_location = r'C:\Program Files\Mozilla Firefox\firefox.exe'
+            desired_capability = webdriver.DesiredCapabilities.FIREFOX
+            desired_capability['marionette'] = True
+            desired_capability['proxy'] = {
+                'proxyType': "manual",
+                'httpProxy': proxy_ip_port,
+                'ftpProxy': proxy_ip_port,
+                'sslProxy': proxy_ip_port,
+                    }
             driver = webdriver.Firefox(executable_path=PATH_firefox,capabilities=desired_capability, options=firefox_options)
         elif browsers == 'chrome':
             print('Chrome proxy : Activated')
