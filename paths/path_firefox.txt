@@ -1,1 +1,1 @@
-C:\\Users\\SALMAN ELKABIBI\\AppData\\Local\\Mozilla Firefox\\firefox.exe
+C:\\Program Files\\Mozilla Firefox\\firefox.exe

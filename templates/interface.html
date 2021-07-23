@@ -8,9 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="main.css">
     <style>
-        .card{
-            height: 100vh;
-        }
         .checkmark__circle {
         stroke-dasharray: 166;
         stroke-dashoffset: 166;
@@ -63,7 +60,6 @@
     <title>Reporting App For Hotmail</title>
 </head>
 <body style="background-color: rgb(61, 60, 60);">
-
     <div class="card"> 
         <div class="card-header text-center bg-dark">
             <strong style="color: white;"> Reporting App v0.1</strong>
@@ -108,6 +104,18 @@
                         <div class="form-check form-check-inline">
                             <input class="form-check-input" type="checkbox" name="box" id="inlineCheckbox8" value="hide_browser" >
                             <label class="form-check-label" for="inlineCheckbox8" style="color: white;">Hide Browser</label>
+                        </div>
+                        <br><br>
+                        <div class="mb-3">
+                            <label for="mark_as_read" style="color: white;"><strong>Mark as read</strong></label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="Radio2" id="flexRadioDefault4" value="when_selected" >
+                            <label class="form-check-label" for="flexRadioDefault4" style="color: white;">When Selected</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="Radio2" id="flexRadioDefault5" value="when_changed" >
+                            <label class="form-check-label" for="flexRadioDefault5" style="color: white;">When Changed</label>
                         </div>
                         <br><br>
                         <div class="mb-3">
@@ -246,10 +254,6 @@
             </form>
         </div>
     </div>
-
-
-
-
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
 </body>

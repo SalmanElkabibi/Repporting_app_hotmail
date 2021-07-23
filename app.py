@@ -24,6 +24,7 @@ def interface():
             reply = request.form["reply_msg"]
         except :
             reply = "NAN"
+        mark_as_read = request.form["Radio2"]
         
         data['subject'] = subject
         data['task'] = task
@@ -33,6 +34,8 @@ def interface():
         data['accounts'] = accounts
         data['hide'] = hide
         data['reply'] = reply
+        data['mark_as_read'] = mark_as_read
+
 
         return launch(data)
     else:
@@ -85,5 +88,5 @@ def pause_script():
 
 if __name__ == '__main__': 
     webbrowser.open_new('http://127.0.0.1:5000/')
-    app.run('127.0.0.1',5000) 
+    app.run('127.0.0.1',5000)
     
