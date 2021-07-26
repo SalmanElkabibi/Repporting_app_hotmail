@@ -138,6 +138,8 @@ def spam_to_inbox(driver, subject, link):
             "//button[@name='Courrier légitime']|//button[@name='Not junk']")
         courrier_legetime.click()
 
+        time.sleep(2)
+
         ok = driver.find_element_by_xpath(
             "//span[contains(text(),'OK')]")
         ok.click()
@@ -145,7 +147,6 @@ def spam_to_inbox(driver, subject, link):
         time.sleep(2)
     except Exception as e:
         print(e)
-        print('Spam Empty')
 
 
 def add_contact(driver, subject, link, rep):
@@ -509,12 +510,16 @@ def test(email, password, ip, port, p_user, p_password, tasks, subject, browsers
             spam = WebDriverWait(driver, 5).until(EC.visibility_of_element_located(
                 (By.XPATH, "//div[@title='Courrier indésirable']|//div[@title='Junk Email']")))
             spam.click()
+            """p = driver.find_elements_by_class_name('_24WqHp8mfxSp2QIJMkmSrM')
+            print(p[0])
+            e = p[0].find_element_by_xpath("//span[contains(text(),'" + subject + "')]")
+            print(e)"""
             e = WebDriverWait(driver, 5).until(
-                EC.visibility_of_element_located((By.XPATH, "//span[contains(text(),'" + subject + "')]")))
+                EC.element_to_be_clickable((By.XPATH, "//span[contains(text(),'" + subject + "')]")))
         except:
             driver.save_screenshot(".\\screenshots\\login_errors\\" + email + ".png")
         while (e):
-            e.click()
+            ActionChains(driver).move_to_element(e).click(e).perform()
             eval('spam_to_inbox(driver,subject,link)')
             spam = driver.find_element_by_xpath(
                 "//div[@title='Courrier indésirable']|//div[@title='Junk Email']").click()
@@ -548,7 +553,9 @@ def test(email, password, ip, port, p_user, p_password, tasks, subject, browsers
 
 
 
-    except:
+    except Exception as e:
+        print(e)
+        print('Spam empty')
         Boîte_de_réception = WebDriverWait(driver, 5).until(
             EC.visibility_of_element_located((By.XPATH, "//div[@title='Boîte de réception']|//div[@title='Inbox']")))
         Boîte_de_réception.click()
