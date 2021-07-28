@@ -2201,3 +2201,1585 @@ JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at l
 1627031426521	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1627031436968	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1627031453916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627047529960	geckodriver	INFO	Listening on 127.0.0.1:65228
+1627047532994	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileMdv0Yj"
+1627047534075	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileMdv0Yj\\search.json.mozlz4", (void 0)))
+1627047535980	Marionette	INFO	Listening on port 65236
+1627047536228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627047541309	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627047548394	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1627047581707	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627047584423	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1627047585181	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627047593450	geckodriver	INFO	Listening on 127.0.0.1:57050
+1627047596478	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileK2qlZ8"
+1627047596859	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileK2qlZ8\\search.json.mozlz4", (void 0)))
+1627047598359	Marionette	INFO	Listening on port 57058
+1627047598599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627047603639	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627047610549	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1627047656587	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627047661602	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://outlook.live.com/mail/0/, line 379: Error: SetMailboxJunkEmailConfiguration failed: System.InvalidOperationException
+JavaScript error: https://outlook.live.com/mail/0/, line 379: Error: SetMailboxJunkEmailConfiguration failed: System.InvalidOperationException
+1627052776367	geckodriver	INFO	Listening on 127.0.0.1:61641
+1627052779402	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileNjG27D"
+1627052779784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileNjG27D\\search.json.mozlz4", (void 0)))
+1627052781278	Marionette	INFO	Listening on port 61649
+1627052781529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627052786564	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627052791087	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1627052800503	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://widgets.outbrain.com/outbrain.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://widgets.outbrain.com/outbrain.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://widgets.outbrain.com/outbrain.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627052802880	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1627052902106	geckodriver	INFO	Listening on 127.0.0.1:60987
+1627052905141	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileevWIBj"
+1627052905839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileevWIBj\\search.json.mozlz4", (void 0)))
+1627052907379	Marionette	INFO	Listening on port 60995
+1627052907881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627052912916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627052921102	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627052932316	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1627052957940	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627052966761	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627288828149	geckodriver	INFO	Listening on 127.0.0.1:50961
+1627288831175	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile4Rtolv"
+1627288831556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile4Rtolv\\search.json.mozlz4", (void 0)))
+1627288833047	Marionette	INFO	Listening on port 50969
+1627288833307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627288838505	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627288845345	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627288881080	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://outlook.live.com/mail/0/, line 379: Error: SetMailboxJunkEmailConfiguration failed: System.InvalidOperationException
+JavaScript error: https://outlook.live.com/mail/0/, line 379: Error: SetMailboxJunkEmailConfiguration failed: System.InvalidOperationException
+1627288886100	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://outlook.live.com/mail/0/, line 379: Error: SetMailboxJunkEmailConfiguration failed: System.InvalidOperationException
+JavaScript error: https://outlook.live.com/mail/0/, line 379: Error: SetMailboxJunkEmailConfiguration failed: System.InvalidOperationException
+JavaScript error: https://outlook.live.com/mail/0/, line 379: Error: SetMailboxJunkEmailConfiguration failed: System.InvalidOperationException
+JavaScript error: https://outlook-1.cdn.office.net/owamail/20210719002.04/resources/suiteux-shell/js/suiteux.shell.core.js, line 1: SyntaxError: An invalid or illegal string was specified
+JavaScript error: https://outlook.live.com/mail/0/, line 379: Error: SetMailboxJunkEmailConfiguration failed: System.InvalidOperationException
+1627288907109	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://outlook.live.com/mail/0/, line 379: Error: SetMailboxJunkEmailConfiguration failed: System.InvalidOperationException
+1627288912130	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627288918403	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 2944, MediaDecoderStateMachine #1] WARNING: Decoder=97f37a0000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 2944, MediaDecoderStateMachine #1] WARNING: Decoder=97f37a0000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1627288924140	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627288930452	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627288936550	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627288942933	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627288951864	Marionette	INFO	Stopped listening on port 50969
+1627310954151	geckodriver	INFO	Listening on 127.0.0.1:51989
+1627310957173	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile9vVVMp"
+1627310958176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile9vVVMp\\search.json.mozlz4", (void 0)))
+1627310960038	Marionette	INFO	Listening on port 51997
+1627310960422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627310960425	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"23.250.89.142:3128","httpProxy":"23.250.89.142:3128","sslProxy":"23.250.89.142:3128"}
+1627310974977	geckodriver	INFO	Listening on 127.0.0.1:56010
+1627310978013	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile28xMxe"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627310980105	Marionette	INFO	Listening on port 56018
+1627310980142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627310980148	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"23.250.89.142:3128","httpProxy":"23.250.89.142:3128","sslProxy":"23.250.89.142:3128"}
+1627311010110	geckodriver	INFO	Listening on 127.0.0.1:59274
+1627311013139	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileFFivON"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627311015057	Marionette	INFO	Listening on port 59282
+1627311015271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627311030681	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627311062242	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627311068637	Marionette	INFO	Stopped listening on port 59282
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Parent 5252, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5252, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4200, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5832, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5252, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 440, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 7108, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627311167016	geckodriver	INFO	Listening on 127.0.0.1:50971
+1627311170051	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileZd9f2n"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627311172311	Marionette	INFO	Listening on port 50979
+1627311172755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627311187383	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627311218109	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627311224605	Marionette	INFO	Stopped listening on port 50979
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Child 6148, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2748, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6716, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5164, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627311278734	geckodriver	INFO	Listening on 127.0.0.1:51568
+1627311281773	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile5l1QOB"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627311283826	Marionette	INFO	Listening on port 51576
+1627311283892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627311330285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627311336742	Marionette	INFO	Stopped listening on port 51576
+[Parent 6868, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Child 2812, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2812, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6868, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6496, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6496, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6868, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3004, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3004, Chrome_ChildThread] WARNING: pi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2680, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDr1627311482936	geckodriver	INFO	Listening on 127.0.0.1:54997
+1627311485965	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile7YMLcg"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627311488015	Marionette	INFO	Listening on port 55005
+1627311488084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627311503091	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627311840586	geckodriver	INFO	Listening on 127.0.0.1:61828
+1627311843608	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileeB14LD"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627311846995	Marionette	INFO	Listening on port 57929
+1627311847420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+Marionette threw an error: <unprintable error>
+Assertion failure: [unhandlable oom] Failed not allocate new chunk during GC, at e:/IceDragon/ID65_64/js/src/vm/JSContext.cpp:1486
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+[Parent 6364, Gecko_IOThread] WARNING: pipe error: 232: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 6364, Gecko_IOThread] WARNING: file e:/IceDragon/ID65_64/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Parent 6364, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2916, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2916, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 976, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 976, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1627311872415	Marionette	INFO	Stopped listening on port 57929
+[GPU 5336, C1627311886973	geckodriver	INFO	Listening on 127.0.0.1:61937
+1627311889988	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilefIZMki"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627311892320	Marionette	INFO	Listening on port 62110
+1627311892705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627311908846	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+Assertion failure: [unhandlable oom] NativeRegExpMacroAssembler::PushBacktrack, at e:/IceDragon/ID65_64/js/src/vm/JSContext.cpp:1486
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Parent 6972, Gecko_IOThread] WARNING: file e:/IceDragon/ID65_64/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 6972, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 980, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 980, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6748, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6748, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1627311911678	Marionette	INFO	Stopped listening on port 62110
+[GPU 4520, Chrome_ChildThread] WARNING: pipe error: 109: 1627311931855	geckodriver	INFO	Listening on 127.0.0.1:65146
+1627311934895	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilenEWQTq"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627311937207	Marionette	INFO	Listening on port 64137
+1627311937599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627311952811	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627312002762	geckodriver	INFO	Listening on 127.0.0.1:59990
+1627312005798	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileQT516G"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627312008021	Marionette	INFO	Listening on port 50764
+1627312008507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627312022218	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://widgets.outbrain.com/outbrain.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://widgets.outbrain.com/outbrain.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://widgets.outbrain.com/outbrain.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/RemoteController.js, line 86: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/RemoteController.js, line 86: uncaught exception: out of memory
+IPDL protocol error: Error deserializing 'Principal'
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]:Crash Annotation  [D3D11] 2 CrGraphicseatCriticalError: |[G0][GeTeFX1-]xture2: Failed D failureto creat Size:e render Size(782 targ,421)texture1et texture: 1: false Code: 0x8007000e (t=60x8008.3284) 7000e (t=69.8394) [GFX1-]: [D3D11] 2 [GFX1-]: FaCreateTexture2D faililed to create render target texture: 0x8007000e
+ure Size: Size(782,421)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=68.3284) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failCrash urAnnotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=69.8394) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=69.8394) [GFX1-]: Failed to create render target texture: 0x8007000e
+e Size: Size(782,421)texture11: false Code: 0x8007000e (t=68.3284) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=69.8394) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=69.8394) |[G2][GFX1-]: Failed to create render target texture: 0x8007000e (t=70.0811) [GFX1-]: Failed to create render target texture: 0x8007000e
+1627312629766	geckodriver	INFO	Listening on 127.0.0.1:55420
+1627312632775	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilet7lq5W"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627312634958	Marionette	INFO	Listening on port 53332
+1627312635024	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627312683570	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627312802687	geckodriver	INFO	Listening on 127.0.0.1:61755
+1627312805720	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile3GYV5B"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627312807497	Marionette	INFO	Listening on port 61685
+1627312807825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627312823945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627312860978	Marionette	INFO	Stopped listening on port 61685
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Parent 5580, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6012, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6656, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6656, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4732, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4732, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627312894079	geckodriver	INFO	Listening on 127.0.0.1:51016
+1627312897105	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileFE24Qb"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627312899017	Marionette	INFO	Listening on port 62570
+1627312899218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627312913959	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627312945295	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627312951723	Marionette	INFO	Stopped listening on port 62570
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Child 3664, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3664, Chrome_ChildThre[Child 3972, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500B9,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA50006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Child 3972, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5344, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 3728, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627312982579	geckodriver	INFO	Listening on 127.0.0.1:58069
+1627312985579	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilem6whKF"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627312987626	Marionette	INFO	Listening on port 54745
+1627312987715	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627313032880	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313039252	Marionette	INFO	Stopped listening on port 54745
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Parent 816, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2356, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 816, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2208, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 2208, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 816, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4804, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4804, Chrome_ChildThread] WARNI[GPU 2764,1627313104581	geckodriver	INFO	Listening on 127.0.0.1:64054
+1627313107617	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile5RngzG"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627313109419	Marionette	INFO	Listening on port 64062
+1627313109717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627313124271	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627313156014	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313161317	Marionette	INFO	Stopped listening on port 64062
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Child 4184, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4184, Chrome_ChildThread] WARNING: pipe error: 109: file e:/Ice[Child 6332, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6332, Chrome_ChildThread] WARNING: pipe error: 232: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+6332, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5752, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5752, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 6656,1627313229867	geckodriver	INFO	Listening on 127.0.0.1:51634
+1627313232885	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileDzuc2e"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627313234826	Marionette	INFO	Listening on port 51642
+1627313234994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627313250288	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627313281777	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313288141	Marionette	INFO	Stopped listening on port 51642
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Parent 2920, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4676, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2920, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3620, Chrome_ChildThread] WARNING: pipe error: 232: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+[Child 3620, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA50006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Child 3620, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2920, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5336, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5336, Chrome_ChildThr[G[Parent 2920, Gecko_IOThread] WARNING: pipe error: 232: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+1627313447508	geckodriver	INFO	Listening on 127.0.0.1:53779
+1627313450548	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileL6AA20"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627313452570	Marionette	INFO	Listening on port 53787
+1627313452677	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627313500595	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627313500902	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313501189	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313501357	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313506165	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313506586	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313506858	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313507089	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+Exiting due to channel error.
+1627313582116	geckodriver	INFO	Listening on 127.0.0.1:57365
+1627313585152	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileYg6EYr"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627313587261	Marionette	INFO	Listening on port 59531
+1627313587360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627313602182	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627313633043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313633275	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313633608	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313633920	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313634134	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313639053	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313639313	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313639567	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313639737	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313644394	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313644644	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313644906	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313645071	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313649774	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313650021	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313650279	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627313650427	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314307501	geckodriver	INFO	Listening on 127.0.0.1:63538
+1627314310538	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile5s2pZp"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627314312654	Marionette	INFO	Listening on port 63546
+1627314312766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627314328450	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://static.adsafeprotected.com/sca.17.5.9.js, line 33: TypeError: The ReadableStream reader was released.
+1627314365799	Marionette	INFO	Stopped listening on port 63546
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Parent 2912, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 1412, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2912, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500B9,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 2668, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA50006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Child 2668, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2912, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4004, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 6852, Chrome_C[Parent 2912, Gecko_IOThread] WARNING: pipe error: 232: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+1627314543904	geckodriver	INFO	Listening on 127.0.0.1:60845
+1627314546957	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilehtLFK4"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627314549152	Marionette	INFO	Listening on port 60853
+1627314549167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627314565509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314596776	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314597031	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314597311	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314597401	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627314599931	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314600197	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314600450	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314600494	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314602830	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314603088	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314603341	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314603397	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) |[C12][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.328) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) |[C12][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.328) |[C13][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.363) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) |[C12][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.328) |[C13][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.363) |[C14][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.432) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C1][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=122.814) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) |[C12][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.328) |[C13][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.363) |[C14][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.432) |[C15][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.432) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C16][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.464) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.018) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) |[C12][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.328) |[C13][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.363) |[C14][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.432) |[C15][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.432) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C16][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.464) |[C17][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.464) |[C3][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.018) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) |[C12][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.328) |[C13][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.363) |[C14][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.432) |[C15][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.432) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C16][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.464) |[C17][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.464) |[C18][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.671) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.089) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) |[C12][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.328) |[C13][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.363) |[C14][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.432) |[C15][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.432) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C16][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.464) |[C17][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.464) |[C18][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.671) |[C19][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.671) |[C5][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.089) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) |[C12][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.328) |[C13][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.363) |[C14][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.432) |[C15][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.432) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C16][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.464) |[C17][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.464) |[C18][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.671) |[C19][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.671) |[C20][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.739) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.122) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) |[C12][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.328) |[C13][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.363) |[C14][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.432) |[C15][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.432) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=122.814) |[C16][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.464) |[C17][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.464) |[C18][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.671) |[C19][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.671) |[C20][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.739) |[C21][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.739) |[C7][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.157) |[C8][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.19) |[C9][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.19) |[C10][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.293) |[C11][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.293) |[C12][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.328) |[C13][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.363) |[C14][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1265,3328)texture11: false Code: 0x8007000e (t=123.432) |[C15][GFX1-]: Failed buffer for 0, 0, 1265, 3328 (t=123.432) [GFX1-]: Failed buffer for 0, 0, 1265, 3328
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000002000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+Assertion failure: [unhandlable oom] Failed not allocate new chunk during GC, at e:/IceDragon/ID65_64/js/src/vm/JSContext.cpp:1486
+1627314647060	geckodriver	INFO	Listening on 127.0.0.1:59036
+1627314650098	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileV22OQa"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627314652238	Marionette	INFO	Listening on port 50299
+1627314652300	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.0054) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.4887) [GFX1-]: Failed to create render target texture: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.4887) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.5568) [GFX1-]: Failed to create render target texture: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.0054) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.0054) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.0054) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C3][GFX1-]: Failed buffer for -81, -56, 1364, 976 (t=64.1417) [GFX1-]: Failed buffer for -81, -56, 1364, 976
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.4887) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.5568) |[G2][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6601) [GFX1-]: Failed to create render target texture: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.4887) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.5568) |[G2][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6601) |[G3][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6953) [GFX1-]: Failed to create render target texture: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.0054) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C3][GFX1-]: Failed buffer for -81, -56, 1364, 976 (t=64.1417) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.2449) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.0054) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C3][GFX1-]: Failed buffer for -81, -56, 1364, 976 (t=64.1417) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.2449) |[C5][GFX1-]: Failed buffer for -81, -56, 1364, 976 (t=64.2449) [GFX1-]: Failed buffer for -81, -56, 1364, 976
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.0054) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C3][GFX1-]: Failed buffer for -81, -56, 1364, 976 (t=64.1417) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.2449) |[C5][GFX1-]: Failed buffer for -81, -56, 1364, 976 (t=64.2449) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.2801) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.0054) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C2][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.1417) |[C3][GFX1-]: Failed buffer for -81, -56, 1364, 976 (t=64.1417) |[C4][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.2449) |[C5][GFX1-]: Failed buffer for -81, -56, 1364, 976 (t=64.2449) |[C6][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1364,976)texture11: false Code: 0x8007000e (t=64.2801) |[C7][GFX1-]: Failed buffer for -81, -56, 1364, 976 (t=64.2801) [GFX1-]: Failed buffer for -81, -56, 1364, 976
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.4887) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.5568) |[G2][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6601) |[G3][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6953) |[G4][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.7634) [GFX1-]: Failed to create render target texture: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.4887) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.5568) |[G2][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6601) |[G3][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6953) |[G4][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.7634) |[G5][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.9018) [GFX1-]: Failed to create render target texture: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.4887) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.5568) |[G2][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6601) |[G3][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6953) |[G4][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.7634) |[G5][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.9018) |[G6][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.9018) [GFX1-]: Failed to create render target texture: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.4887) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.5568) |[G2][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6601) |[G3][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6953) |[G4][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.7634) |[G5][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.9018) |[G6][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.9018) |[G7][GFX1-]: Failed to create render target texture: 0x8007000e (t=66.0051) [GFX1-]: Failed to create render target texture: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.4887) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.5568) |[G2][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6601) |[G3][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6953) |[G4][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.7634) |[G5][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.9018) |[G6][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.9018) |[G7][GFX1-]: Failed to create render target texture: 0x8007000e (t=66.0051) |[G8][GFX1-]: Failed to create render target texture: 0x8007000e (t=66.038) [GFX1-]: Failed to create render target texture: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.4887) |[G1][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.5568) |[G2][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6601) |[G3][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.6953) |[G4][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.7634) |[G5][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.9018) |[G6][GFX1-]: Failed to create render target texture: 0x8007000e (t=65.9018) |[G7][GFX1-]: Failed to create render target texture: 0x8007000e (t=66.0051) |[G8][GFX1-]: Failed to create render target texture: 0x8007000e (t=66.038) |[G9][GFX1-]: Failed to create render target texture: 0x8007000e (t=66.0732) [GFX1-]: Failed to create render target texture: 0x8007000e
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 2836, Gecko_IOThread] WARNING: file e:/IceDragon/ID65_64/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Parent 2836, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3404, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3404, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3340, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3340, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1627314681516	Marionette	INFO	Stopped listening on port 50299
+[GPU 5676, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627314696897	geckodriver	INFO	Listening on 127.0.0.1:60037
+1627314699929	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileWY2QTu"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627314702031	Marionette	INFO	Listening on port 55336
+1627314702057	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7641) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7641) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7641) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7641) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7641) |[C2][GFX1-]: Failed buffer for 0, 15, 782, 421 (t=63.7641) [GFX1-]: Failed buffer for 0, 15, 782, 421
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7641) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7641) |[C2][GFX1-]: Failed buffer for 0, 15, 782, 421 (t=63.7641) |[C3][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7993) [GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7641) |[C1][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7641) |[C2][GFX1-]: Failed buffer for 0, 15, 782, 421 (t=63.7641) |[C3][GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(782,421)texture11: false Code: 0x8007000e (t=63.7993) |[C4][GFX1-]: Failed buffer for 0, 15, 782, 421 (t=63.7993) [GFX1-]: Failed buffer for 0, 15, 782, 421
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000002808 bytes requested
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: uncaught exception: out of memory
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: GFX: D3D11 detected a device reset in Present (t=65.8597) [GFX1-]: GFX: D3D11 detected a device reset in Present
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: GFX: D3D11 detected a device reset in Present (t=65.8597) |[G1][GFX1-]: D3D11 swap chain failed to present: 0x887a0005 (t=65.8597) [GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+1627314761316	geckodriver	INFO	Listening on 127.0.0.1:50455
+1627314764348	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileqHIdJJ"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627314766403	Marionette	INFO	Listening on port 50463
+1627314766496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627314781540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627314812549	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314812893	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314813156	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314813415	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314813705	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314820693	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314820948	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314821211	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314821491	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627314903402	geckodriver	INFO	Listening on 127.0.0.1:64618
+1627314906436	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile4OlMkS"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627314908188	Marionette	INFO	Listening on port 64626
+1627314908546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627314908553	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"23.250.89.142:3128","httpProxy":"23.250.89.142:3128","sslProxy":"23.250.89.142:3128"}
+1627314934093	geckodriver	INFO	Listening on 127.0.0.1:64941
+1627314937116	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileRyKC7Q"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627314938960	Marionette	INFO	Listening on port 64949
+1627314939219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627314939228	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"23.250.89.142:3128","httpProxy":"23.250.89.142:3128","sslProxy":"23.250.89.142:3128"}
+1627314954696	geckodriver	INFO	Listening on 127.0.0.1:60655
+1627314957725	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilekJAop7"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627314959526	Marionette	INFO	Listening on port 60663
+1627314959844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627314974496	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627315005453	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315005957	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315006232	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315006485	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315006683	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315011451	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627315011751	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315012058	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315012259	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315054927	geckodriver	INFO	Listening on 127.0.0.1:59385
+1627315057958	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilez4nEhP"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627315060252	Marionette	INFO	Listening on port 59393
+1627315060656	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://widgets.outbrain.com/outbrain.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://widgets.outbrain.com/outbrain.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://widgets.outbrain.com/outbrain.js, line 83: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627315108186	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315108434	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315108691	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315108952	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315115980	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315116231	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315116490	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315116763	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315123878	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315124128	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315124388	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315124666	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315131631	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315131888	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315132145	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315132338	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627315172242	Marionette	INFO	Stopped listening on port 59393
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 1684, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6904, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4792, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4792, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src[Parent 1684, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6620, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6620, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[1627395956936	geckodriver	INFO	Listening on 127.0.0.1:55684
+1627395959950	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilehtFHRI"
+1627395961105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilehtFHRI\\search.json.mozlz4", (void 0)))
+1627395963581	Marionette	INFO	Listening on port 55692
+Hit MOZ_CRASH([unhandlable oom] js::wasm::Init) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1191
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390144,name=PContent::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627395964145	Marionette	INFO	Stopped listening on port 55692
+1627396009239	geckodriver	INFO	Listening on 127.0.0.1:65355
+1627396012270	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilea7j1jA"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627396016610	Marionette	INFO	Listening on port 53056
+1627396016702	Marionette	WARN	TLS certificate errors will be ignored for this session
+Assertion failure: [unhandlable oom] Failed not allocate new chunk during GC, at e:/IceDragon/ID65_64/js/src/vm/JSContext.cpp:1486
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 4688, Gecko_IOThread] WARNING: file e:/IceDragon/ID65_64/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Child 6696, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6696, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+[Parent 4688, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4764, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4764, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1627396030782	Marionette	INFO	Stopped listening on port 53056
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627396125977	geckodriver	INFO	Listening on 127.0.0.1:63365
+1627396128990	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileOHD0Lo"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627396131624	Marionette	INFO	Listening on port 52248
+1627396131711	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: chrome://browser/content/tabbrowser.js, line 1681: uncaught exception: out of memory
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Extension shutdown: formautofill@mozilla.org
+          Phase: profile-change-teardown
+          State: {"state":"Startup: Complete"}
+WARNING: out of memory
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Extension shutdown: webcompat@mozilla.org
+          Phase: profile-change-teardown
+          State: {"state":"Startup: Complete"}
+WARNING: out of memory
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Extension shutdown: webcompat-reporter@mozilla.org
+          Phase: profile-change-teardown
+          State: {"state":"Startup: Complete"}
+WARNING: out of memory
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 152: uncaught exception: out of memory
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 152: uncaught exception: out of memory
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 152: uncaught exception: out of memory
+console.error: "Could not write session state file " "out of memory" (void 0)
+JavaScript error: resource:///modules/sessionstore/SessionFile.jsm, line 405: uncaught exception: out of memory
+JavaScript error: resource:///modules/sessionstore/SessionFile.jsm, line 435: uncaught exception: out of memory
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  SessionStore: flushing all windows
+          Phase: quit-application-granted
+          State: {"total":1,"current":0}
+WARNING: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[Parent 5908, Gecko_IOThread] WARNING: file e:/IceDragon/ID65_64/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 2244, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 2244, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350110,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350110,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350110,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[Parent 5908, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6440, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1627396144602	Marionette	INFO	Stopped listening on port 52248
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3120, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/I1627396228720	geckodriver	INFO	Listening on 127.0.0.1:53974
+1627396231729	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileHxitjP"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627396234313	Marionette	INFO	Listening on port 53982
+1627396234485	Marionette	WARN	TLS certificate errors will be ignored for this session
+Assertion failure: [unhandlable oom] Failed not allocate new chunk during GC, at e:/IceDragon/ID65_64/js/src/vm/JSContext.cpp:1486
+out of memory: 0x0000000000020000 bytes requested
+1627396403279	geckodriver	INFO	Listening on 127.0.0.1:49413
+1627396406280	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileZrr5fx"
+1627396407372	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileZrr5fx\\search.json.mozlz4", (void 0)))
+1627396409212	Marionette	INFO	Listening on port 49421
+1627396409515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627396414856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396422662	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1627396434043	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627396460913	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396469401	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396487977	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396525234	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396538565	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396543792	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396562343	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396568971	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396580835	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396645318	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396652038	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396658864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396665421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396670408	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396677637	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396682679	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396689413	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627396701521	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+memory allocation of 45637 bytes failed
+1627396747591	Marionette	INFO	Stopped listening on port 49421
+1627397496667	geckodriver	INFO	Listening on 127.0.0.1:57563
+1627397499693	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilebMng9o"
+1627397500150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilebMng9o\\search.json.mozlz4", (void 0)))
+1627397501840	Marionette	INFO	Listening on port 57573
+1627397501945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627397507408	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Hit MOZ_CRASH([unhandlable oom] Failed not allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1191
+#01: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3c08a46]
+#02: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3c0d722]
+#03: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1186a5]
+#04: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d610b9]
+#05: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d684e0]
+#06: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xad3a9]
+#07: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d51a25]
+#08: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xace06]
+#09: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3c136d5]
+#10: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x78983c]
+#11: ??? (???:???)
+1627397676309	geckodriver	INFO	Listening on 127.0.0.1:63546
+1627397679351	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileYa4QRc"
+1627397680125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileYa4QRc\\search.json.mozlz4", (void 0)))
+1627397681934	Marionette	INFO	Listening on port 57251
+1627397682081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627397687652	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate slots while tenuring.) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1191
+#01: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3c08a46]
+#02: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3c0d722]
+#03: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d6202c]
+#04: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d683ef]
+#05: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xad3a9]
+#06: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d51a25]
+#07: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xace06]
+#08: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3c136d5]
+#09: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x78983c]
+#10: ??? (???:???)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 4176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627397695005	Marionette	INFO	Stopped listening on port 57251
+1627397785480	geckodriver	INFO	Listening on 127.0.0.1:60436
+1627397788512	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileQ2zTkJ"
+1627397789232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileQ2zTkJ\\search.json.mozlz4", (void 0)))
+1627397790964	Marionette	INFO	Listening on port 60444
+1627397791245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627397796631	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397804331	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1627397815388	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627397835263	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397841896	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397850040	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397868182	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397885045	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 4152, MediaDecoderStateMachine #1] WARNING: Decoder=99f0ca6400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+[Child 4152, MediaDecoderStateMachine #1] WARNING: Decoder=99f0ca6400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1627397905237	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397911439	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397918416	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397924666	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397931929	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397938134	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397945512	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397964999	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397972264	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627397991587	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627398004892	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627398011906	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627398038299	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627398064788	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627398070948	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627398097642	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627398110860	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627398144566	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627398151518	Marionette	INFO	Stopped listening on port 60444
+1627400213490	geckodriver	INFO	Listening on 127.0.0.1:49236
+1627400216510	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileerTCUi"
+1627400217558	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileerTCUi\\search.json.mozlz4", (void 0)))
+1627400219524	Marionette	INFO	Listening on port 57591
+1627400219783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627400224965	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Hit MOZ_CRASH([unhandlable oom] Failed not allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1191
+#01: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3c08a46]
+#02: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3c0d722]
+#03: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1186a5]
+#04: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d61205]
+#05: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d683ef]
+#06: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xad3a9]
+#07: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d51a25]
+#08: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xace06]
+#09: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x107097]
+#10: ??? (???:???)
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+<jemalloc>: (malloc) Error initializing arena
+out of memory: 0x0000000000000030 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+out of memory: 0x000000000004000C bytes requested
+1627400472870	geckodriver	INFO	Listening on 127.0.0.1:58147
+1627400475910	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilebXcvy9"
+1627400476625	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilebXcvy9\\search.json.mozlz4", (void 0)))
+1627400478164	Marionette	INFO	Listening on port 50581
+1627400478629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627400483748	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1-]: Failed in CreateRenderTarget 0x8007000e
+[GFX1-]: Failed in CreateRenderTarget 0x8007000e
+out of memory: 0x00000000000030C8 bytes requested
+[GFX1-]: GFX: D3D11 skip BeginFrame with device-removed.
+out of memory: 0x0000000000000080 bytes requested
+<jemalloc>: (malloc) Error initializing arena
+out of memory: 0x0000000000000030 bytes requested
+1627400633588	geckodriver	INFO	Listening on 127.0.0.1:61268
+1627400636615	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileVP1hHU"
+1627400637064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileVP1hHU\\search.json.mozlz4", (void 0)))
+1627400638598	Marionette	INFO	Listening on port 63411
+1627400638743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627400643900	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1627400651382	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+out of memory: 0x0000000000000100 bytes requested
+[Parent 2396, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gMarionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+ecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+[Parent 2396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=17a3307800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3507,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get browsingContext:545","chrome://global/content/elements/browser-custom-element.js:get contentTitle:568","resource:///modules/ContentCrashHandlers.jsm:sendToTabCrashedPage:583","resource:///modules/ContentCrashHandlers.jsm:flushCrashedBrowserQueue:224","resource:///modules/ContentCrashHandlers.jsm:observe:143"]}] Barrier: profile-before-change
+1627400683515	Marionette	INFO	Stopped listening on port 63411
+1627400799510	geckodriver	INFO	Listening on 127.0.0.1:61124
+1627400802547	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilePg6yWN"
+1627400803112	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilePg6yWN\\search.json.mozlz4", (void 0)))
+out of memory: 0x00000000000007A4 bytes requested
+Exiting due to channel error.
+1627400815639	geckodriver	INFO	Listening on 127.0.0.1:60338
+1627400818657	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileEUG41g"
+1627400819036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofileEUG41g\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/BackgroundUpdate.jsm, line 136: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/BackgroundUpdate.jsm, line 136: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-sync.js, line 525: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+console.error: "Could not load engine google@search.mozilla.org: TypeError: policy is null"
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+console.error: (new Error("Error(s) encountered during statement execution: out of memory", "resource://gre/modules/Sqlite.jsm", 893))
+out of memory: 0x0000000000050000 bytes requested
+1627400829593	geckodriver	INFO	Listening on 127.0.0.1:60433
+1627400832627	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile1cOZVc"
+1627400832990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile1cOZVc\\search.json.mozlz4", (void 0)))
+out of memory: 0x0000000000000028 bytes requested
+out of memory: 0x0000000000000028 bytes requested
+1627400898786	geckodriver	INFO	Listening on 127.0.0.1:62688
+1627400901826	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile3Noj61"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627400904482	Marionette	INFO	Listening on port 63435
+1627400904551	Marionette	WARN	TLS certificate errors will be ignored for this session
+Assertion failure: [unhandlable oom] Failed not allocate new chunk during GC, at e:/IceDragon/ID65_64/js/src/vm/JSContext.cpp:1486
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 351: uncaught exception: out of memory
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 351: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDocShell.displayLoadError]
+1627400942833	geckodriver	INFO	Listening on 127.0.0.1:56315
+1627400945866	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile2jFn2U"
+1627400946569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile2jFn2U\\search.json.mozlz4", (void 0)))
+1627400948079	Marionette	INFO	Listening on port 63956
+1627400948608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627400953686	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate elements while tenuring.) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1191
+### ERROR: SymInitialize: Not enough storage is available to process this command.
+#01: ??? (???:???)
+### ERROR: SymInitialize: Not enough storage is available to process this command.
+#02: ??? (???:???)
+### ERROR: SymInitialize: Not enough storage is available to process this command.
+#03: ??? (???:???)
+### ERROR: SymInitialize: (null)
+#04: ??? (???:???)
+### ERROR: SymInitialize: (null)
+#05: ??? (???:???)
+### ERROR: SymInitialize: The parameter is incorrect.
+#06: ??? (???:???)
+### ERROR: SymInitialize: The parameter is incorrect.
+#07: ??? (???:???)
+### ERROR: SymInitialize: The parameter is incorrect.
+#08: ??? (???:???)
+### ERROR: SymInitialize: The parameter is incorrect.
+#09: ??? (???:???)
+### ERROR: SymInitialize: The parameter is incorrect.
+#10: ??? (???:???)
+1627400983864	geckodriver	INFO	Listening on 127.0.0.1:63647
+1627400986904	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilevyu2eU"
+1627400987272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofilevyu2eU\\search.json.mozlz4", (void 0)))
+1627400988814	Marionette	INFO	Listening on port 60874
+1627400989027	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1284,883)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1284,883)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(863,303)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(863,303)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(863,303)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 414, 576, 863, 303
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(863,303)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 414, 576, 863, 303
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(456,65)texture11: false Code: 0x8007000e
+console.error: "Could not write session state file " (new Error("TypeError: cannot use 'in' operator to search for \"toMsg\" in \"out of memory\"", "resource://gre/modules/workers/require.js line 138 > Function line 3 > eval", 184)) "postMessage@resource://gre/modules/PromiseWorker.jsm:349:17\n"
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(456,417)texture11: false Code: 0x8007000e
+out of memory: 0x0000000000001000 bytes requested
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39004F,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1627400992258	Marionette	INFO	Stopped listening on port 60874
+1627401224828	geckodriver	INFO	Listening on 127.0.0.1:49524
+1627401227865	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile0v0oTA"
+1627401228242	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile0v0oTA\\search.json.mozlz4", (void 0)))
+1627401229751	Marionette	INFO	Listening on port 58650
+1627401229983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627401235172	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Hit MOZ_CRASH([unhandlable oom] Failed not allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1191
+### ERROR: SymLoadModule64: Not enough storage is available to process this command.
+#01: ??? (???:???)
+#02: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3c0d722]
+#03: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x1186a5]
+#04: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d61205]
+#05: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d683ef]
+#06: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xad3a9]
+#07: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3d51a25]
+#08: ???[C:\Program Files\Mozilla Firefox\xul.dll +0xace06]
+#09: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3c136d5]
+#10: ???[C:\Program Files\Mozilla Firefox\xul.dll +0x3b2bb3c]
+#11: ??? (???:???)
+[Parent 5088, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:761
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 5088, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1627401241380	Marionette	INFO	Stopped listening on port 58650
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627401256174	geckodriver	INFO	Listening on 127.0.0.1:49771
+1627401259205	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\2\\rust_mozprofile93wjmH"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627401261817	Marionette	INFO	Listening on port 64258
+1627401261941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+Assertion failure: [unhandlable oom] Failed not allocate new chunk during GC, at e:/IceDragon/ID65_64/js/src/vm/JSContext.cpp:1486
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 3600, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 449
+[Parent 3600, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 449
+[Parent 3600, Gecko_IOThread] WARNING: pipe error: 232: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3600, Gecko_IOThread] WARNING: file e:/IceDragon/ID65_64/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
+[Parent 3600, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5644, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5644, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4784, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4784, Chrome_ChildThread] WARNIN1627401303405	Marionette	INFO	Stopped listening on port 64258
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2444, Chrome_ChildThread] WARNING: pipe error: 109: file e:1627471173373	geckodriver	INFO	Listening on 127.0.0.1:59642
+1627471176409	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilezSTxHT"
+1627471177696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilezSTxHT\\search.json.mozlz4", (void 0)))
+1627471180974	Marionette	INFO	Listening on port 59748
+1627471181369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627471457824	geckodriver	INFO	Listening on 127.0.0.1:61841
+1627471460851	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilexm7UKB"
+1627471461636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilexm7UKB\\search.json.mozlz4", (void 0)))
+1627471464017	Marionette	INFO	Listening on port 61969
+1627471464138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627471627439	geckodriver	INFO	Listening on 127.0.0.1:63749
+1627471630446	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileLZTVQX"
+1627471631636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileLZTVQX\\search.json.mozlz4", (void 0)))
+1627471633994	Marionette	INFO	Listening on port 63888
+1627471634290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627471649869	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+out of memory: 0x0000000000001000 bytes requested
+1627471836517	geckodriver	INFO	Listening on 127.0.0.1:51092
+1627471839546	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilevgqTOa"
+1627471840375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilevgqTOa\\search.json.mozlz4", (void 0)))
+1627471842203	Marionette	INFO	Listening on port 51193
+1627471842276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627477630492	geckodriver	INFO	Listening on 127.0.0.1:57391
+1627477633503	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilevQA8PX"
+1627477634723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilevQA8PX\\search.json.mozlz4", (void 0)))
+1627477637154	Marionette	INFO	Listening on port 57526
+1627477637371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627477667290	geckodriver	INFO	Listening on 127.0.0.1:63315
+1627477670330	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileAPvRlq"
+1627477670773	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileAPvRlq\\search.json.mozlz4", (void 0)))
+1627477672908	Marionette	INFO	Listening on port 63410
+1627477673061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627478252412	geckodriver	INFO	Listening on 127.0.0.1:49924
+1627478255416	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilexPO1dw"
+1627478256218	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilexPO1dw\\search.json.mozlz4", (void 0)))
+1627478258601	Marionette	INFO	Listening on port 50040
+1627478258668	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:69
+unregisterCommandsActor@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:2335:3
+onClosed@chrome://marionette/content/server.js:194:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Salman\AppData\Local\Temp\5\rust_mozprofilexPO1dw\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627478259960	Marionette	INFO	Stopped listening on port 50040
+1627482261402	geckodriver	INFO	Listening on 127.0.0.1:52391
+1627482264397	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofile4VZ0uJ"
+1627482265506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofile4VZ0uJ\\search.json.mozlz4", (void 0)))
+1627482267601	Marionette	INFO	Listening on port 52480
+1627482267675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1627482318872	geckodriver	INFO	Listening on 127.0.0.1:54045
+1627482321895	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileV5gJY0"
+1627482322399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileV5gJY0\\search.json.mozlz4", (void 0)))
+1627482323940	Marionette	INFO	Listening on port 54140
+1627482324130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627482402164	geckodriver	INFO	Listening on 127.0.0.1:53077
+1627482405177	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileaZPpmL"
+1627482405622	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileaZPpmL\\search.json.mozlz4", (void 0)))
+1627482407325	Marionette	INFO	Listening on port 53205
+1627482407409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627482522818	geckodriver	INFO	Listening on 127.0.0.1:57324
+1627482525846	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileOsvIIR"
+1627482526335	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileOsvIIR\\search.json.mozlz4", (void 0)))
+1627482528324	Marionette	INFO	Listening on port 57435
+1627482528574	Marionette	WARN	TLS certificate errors will be ignored for this session
