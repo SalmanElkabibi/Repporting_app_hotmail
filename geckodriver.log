@@ -3688,38 +3688,45 @@ JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.j
 [GPU 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-2444, Chrome_ChildThread] WARNING: pipe error: 109: file e:1627557381811	geckodriver	INFO	Listening on 127.0.0.1:59611
-1627557384807	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileJf4tDI"
+2444, Chrome_ChildThread] WARNING: pipe error: 109: file e:1627901600328	geckodriver	INFO	Listening on 127.0.0.1:49320
+1627901603340	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileK66GVG"
 JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
 JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
-1627557386831	Marionette	INFO	Listening on port 59619
-1627557386935	Marionette	WARN	TLS certificate errors will be ignored for this session
-1627557386942	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"107.172.15.176:3128","httpProxy":"107.172.15.176:3128","sslProxy":"107.172.15.176:3128"}
-1627557405510	geckodriver	INFO	Listening on 127.0.0.1:54456
-1627557408533	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileBoKw5H"
+1627901606896	Marionette	INFO	Listening on port 49328
+1627901607157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627901660519	geckodriver	INFO	Listening on 127.0.0.1:58144
+1627901663529	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilewsAWsG"
 JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
 JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
-1627557410497	Marionette	INFO	Listening on port 54464
-1627557410691	Marionette	WARN	TLS certificate errors will be ignored for this session
-1627557440965	Marionette	INFO	Stopped listening on port 54464
-JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1681: NS_ERROR_FILE_NOT_FOUND
-[Child 1528, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
-[Child 1528, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
-[Child 3660, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
-[Child 3660, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chr[Child 2244, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
-[Child 2244, Chrome_ChildThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
-[GPU 8088, Chrome_Chi1627557459530	geckodriver	INFO	Listening on 127.0.0.1:54036
-1627557462568	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilejLwTGc"
-1627557463548	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofilejLwTGc\\search.json.mozlz4", (void 0)))
-1627557465591	Marionette	INFO	Listening on port 54044
-1627557465806	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
-JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
-JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
-1627560038330	geckodriver	INFO	Listening on 127.0.0.1:54269
-1627560041369	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Salman\\AppData\\Local\\Temp\\5\\rust_mozprofileX5d0Cp"
+1627901665669	Marionette	INFO	Listening on port 58152
+1627901665761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627901685304	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://z.moatads.com/mirrordigitaldfp887785636158/moatad.js#moatClientLevel1=4506745805&moatClientLevel2=2874086348&moatClientLevel3=5734696049&moatClientLevel4=138353680918&moatClientSlicer1=283705099&moatClientSlicer2=22478858154&zMoatPS=, line 248: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://files.bidsimulator.com/gmdcm-gzip.js?dealId=25929066-306448347&impId=1331525601&hx_dsig_cc=direct&exid=154758367&pubid=1676762 line 1 > eval line 1 > eval, line 14: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tBv30B7cEwOfmOtuBIU0RKM2cx09bPxFJYI-bfU5S6g.js line 1 > eval line 5068 > eval line 1 > eval, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tBv30B7cEwOfmOtuBIU0RKM2cx09bPxFJYI-bfU5S6g.js line 1 > eval line 6190 > eval line 1 > eval, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tBv30B7cEwOfmOtuBIU0RKM2cx09bPxFJYI-bfU5S6g.js line 1 > eval line 6124 > eval line 1 > eval, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://static.adsafeprotected.com/sca.17.5.10.js, line 33: TypeError: The ReadableStream reader was released.
+1627901726015	geckodriver	INFO	Listening on 127.0.0.1:53147
+1627901729023	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileLQ1abm"
 JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
 JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
-1627560043851	Marionette	INFO	Listening on port 54277
-1627560044078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627901731165	Marionette	INFO	Listening on port 53155
+1627901731236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627901754782	geckodriver	INFO	Listening on 127.0.0.1:53078
+1627901757795	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilenHnVX4"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627901759447	Marionette	INFO	Listening on port 53086
+1627901759908	Marionette	WARN	TLS certificate errors will be ignored for this session

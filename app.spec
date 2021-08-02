@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['app.py'],
-             pathex=['C:\\Users\\Salman\\Desktop\\Repporting_app_hotmail-main\\Repporting_app_hotmail-main'],
+             pathex=['C:\\Users\\Administrator\\Desktop\\reporting_hotmail-master\\reporting_hotmail-master'],
              binaries=[],
              datas=[('templates', 'templates'), ('paths', 'paths')],
              hiddenimports=[],
