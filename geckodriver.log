@@ -3730,3 +3730,141 @@ JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.j
 JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
 1627901759447	Marionette	INFO	Listening on port 53086
 1627901759908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627998033617	geckodriver	INFO	Listening on 127.0.0.1:58691
+1627998036627	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilefNXNb9"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627998038919	Marionette	INFO	Listening on port 58699
+1627998039338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627998039345	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"23.229.70.209:3128","httpProxy":"23.229.70.209:3128","sslProxy":"23.229.70.209:3128"}
+1627998060024	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://acdn.adnxs.com/ast/static/0.36.0/ast.js, line 1: TypeError: e is null
+1627998543227	geckodriver	INFO	Listening on 127.0.0.1:62919
+1627998546240	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilee8SEYr"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627998548113	Marionette	INFO	Listening on port 62927
+1627998548358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627998548369	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"23.229.70.209:3128","httpProxy":"23.229.70.209:3128","sslProxy":"23.229.70.209:3128"}
+1627998568709	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627998604691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627998754260	geckodriver	INFO	Listening on 127.0.0.1:57502
+1627998757271	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilebJEGkj"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627998759061	Marionette	INFO	Listening on port 57510
+1627998759385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627998759392	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"23.229.70.209:3128","httpProxy":"23.229.70.209:3128","sslProxy":"23.229.70.209:3128"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627998779777	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627998816098	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627998820471	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627998820735	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627998820991	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627998820998	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript warning: https://yep.video.yahoo.com/oath/js/1/oath-player.js, line 4: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://yep.video.yahoo.com/oath/js/1/oath-player.js, line 4: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://yep.video.yahoo.com/oath/js/1/oath-player.js, line 4: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+[Parent 6872, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6872, Gecko_IOThread] WARNING: pipe error: 109: file e:/IceDragon/ID65_64/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: https://s.yimg.com/rx/vrm/builds/30428082/xdomain-vpaid.js, line 16: TypeError: window.parent is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627998996273	geckodriver	INFO	Listening on 127.0.0.1:63279
+1627998999284	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileJXQbvF"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627999001570	Marionette	INFO	Listening on port 63287
+1627999001995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627999002003	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"23.229.70.209:3128","httpProxy":"23.229.70.209:3128","sslProxy":"23.229.70.209:3128"}
+1627999022750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627999055392	geckodriver	INFO	Listening on 127.0.0.1:51864
+1627999058404	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Comodo\\\\IceDragon\\\\icedragon.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile1uXhtR"
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1316: NS_ERROR_FILE_NOT_FOUND
+JavaScript error: jar:file:///C:/Program%20Files/Comodo/IceDragon/browser/omni.ja!/components/nsBrowserGlue.js, line 1703: TypeError: addon is null
+1627999060640	Marionette	INFO	Listening on port 51872
+1627999061119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627999061126	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"23.229.70.209:3128","httpProxy":"23.229.70.209:3128","sslProxy":"23.229.70.209:3128"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1627999082031	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+JavaScript warning: https://pagead2.googlesyndication.com/bg/5DoHiAB8gciOXy4tN-30Samgrf9Qq3bIy1sciudvWGA.js line 1 > eval line 449 > eval, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript error: https://static.adsafeprotected.com/sca.17.5.10.js, line 33: TypeError: The ReadableStream reader was released.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.adsafeprotected.com/sca.17.5.10.js, line 33: TypeError: The ReadableStream reader was released.
+1627999122406	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627999122840	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627999123107	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1627999123118	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
